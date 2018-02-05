@@ -13,10 +13,12 @@ While perception is easily treatable and rich with examples below, the logic is 
 ### Feelings percetpion
 [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) touches this topic by trying to infer feelings as way of communication, without necessarily explaining the logic behind feelings. 
 ### Feelings Perception examples
+#### From Text
 * [Demo of sentiments analysis API](https://cloud.google.com/natural-language/) Great demo, there you can paste any text of your own, a detailed analysis will be displayed.
+* [text classification into emojis](http://www.dtu.dk/english/news/2017/09/dtuavisen-machines-recognize-feelings-using-algorithm-and-emojis?id=de6d1016-1375-4055-8545-8997585e2cce)
+#### From images, videos
 * Smile recognition (a common feature on cameras is self trigger on smile detection).
 * [Video Magnification](http://people.csail.mit.edu/mrub/vidmag/) for e.g. heart rate estimation.
-* [text classification into emojis](http://www.dtu.dk/english/news/2017/09/dtuavisen-machines-recognize-feelings-using-algorithm-and-emojis?id=de6d1016-1375-4055-8545-8997585e2cce)
 * Social impact in a comedy, help for disabled and privacy intrusion as no more able to hide internal thoughts : [Sheldon's emotions detection machine](https://www.youtube.com/watch?v=TfNnpsYATbQ)
 
 ## Artificial Moral agents

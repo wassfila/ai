@@ -19,6 +19,7 @@ While perception is easily treatable and rich with examples below, the logic is 
 
 ## Artificial Moral agents
 * how AI could make better decisions for me than I do for myself ?
+
 Artificial Moral Agents is what targets the question. [AI wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence) section : Artificial moral agents and reference (Wendell Wallach (2010). Moral Machines, Oxford University Press.)
 
 # references

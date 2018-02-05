@@ -4,9 +4,11 @@ Collection of documents about general Artificial Intelligence and link to algori
 # Special Topics
 ## Feelings Algorithms
 * understanding feelings as algorithms
+
 This question has two paths
 - Logic : What is the logic that creates one fealing or another
 - Perception : What is the impact of the feeling on the person, how is it communicated and perceived by others
+
 While perception is easily treatable and rich with examples below, the logic is somehow linked with the complete system and might be hard to dissociate from the brain, conciousness and the self, ego, instincts, goals, and which logics brings a disappointment in which case and satisfaction in which other.
 ### Feelings percetpion
 [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) touches this topic by trying to infer feelings as way of communication, without necessarily explaining the logic behind feelings. 
